@@ -4,7 +4,7 @@
   "batters": {
     "batter": [
       { "id": "1", "type": "Regular", "rating": 2 },
-{ "id": "2", "type": "Chocolate", "rating": 8 },
+      { "id": "7", "type": "Chocolate", "rating": 8 },
       { "id": "3", "type": "Blueberry", "rating": 5 },
       { "id": "4", "type": "Devil's Food", "rating": 3.5 }
     ]
@@ -16,7 +16,8 @@
     { "id": "5007", "type": "Powdered Sugar" },
     { "id": "5006", "type": "Chocolate with Sprinkles" },
     { "id": "5003", "type": "Chocolate" },
-    { "id": "5004", "type": "Maple" }
+    { "id": "5004", "type": "Maple" },
+    { "id":"5008","type":"Caramel"}
   ]
 }
 
